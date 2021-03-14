@@ -282,7 +282,7 @@
   margin-bottom: 2rem;
 }
 .contact__list {
-  width: 80vw;
+  width: 79vw;
   display: grid;
   grid-template-columns: 1fr;
   grid-gap: 2rem;
